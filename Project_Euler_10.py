@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Feb 12 13:43:22 2021
-
-@author: MYERSJ1
-"""
 
 def isprime(x):
     '''Returns True if x is prime and false if x is composite'''
