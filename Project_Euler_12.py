@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Feb 14 18:01:36 2021
 
-@author: MYERSJ1
-"""
 
 def factors(x):
     '''Returns the number of divisors of x'''
